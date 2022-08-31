@@ -2,5 +2,6 @@
 
 function helloWorld()
 {
-    return "Goodbye, Mars!";
+    return "Hello, World!";
 }
+echo helloWorld();
